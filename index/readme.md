@@ -1,0 +1,9 @@
+- [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
+- [What are Transformer Neural Networks?](https://youtu.be/XSSTuhyAmnI)
+- https://youtu.be/rURRYI66E54
+- https://youtu.be/dPWYUELwIdM
+- https://youtu.be/XowwKOAWYoQ
+- https://youtu.be/byvEzyFgv44
+- https://youtu.be/cUsqFx4Sij8?list=PLTl9hO2Oobd_bzXUpzKMKA3liq2kj6LfE
+- https://youtu.be/SjhIlw3Iffs
+- https://youtu.be/VMj-3S1tku0
